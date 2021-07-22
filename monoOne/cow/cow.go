@@ -2,6 +2,6 @@ package cow
 
 import "fmt"
 
-func say() {
+func Say() {
 	fmt.Println("mooo")
 }
