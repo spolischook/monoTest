@@ -8,4 +8,5 @@ import (
 func main() {
 	fmt.Println("Hello module Two")
 	bird.Say()
+	bird.Do()
 }
